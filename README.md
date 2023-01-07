@@ -1,0 +1,1 @@
+### [![Build status](https://ci.appveyor.com/api/projects/status/dbmgxb0wnmdiv54e?svg=true)](https://ci.appveyor.com/project/yapparovalili/testing-api-ci-homework-1-2-2)
